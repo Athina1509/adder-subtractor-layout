@@ -1,0 +1,19 @@
+# 4-Bit Adder/Subtractor in Cadence Virtuoso
+
+This project implements a 4-bit adder/subtractor using full custom layout design in Cadence Virtuoso.
+
+## Features
+- XOR gates for add/subtract logic
+- Full adder chaining for 4-bit output
+- Custom layout for each cell
+- Well-structured VDD and GND rails
+
+## Tools Used
+- Cadence Virtuoso (6.1.x)
+- GPDK 180nm
+
+## Instructions
+1. Terminal
+2. Load in Virtuoso
+3. Open cell view: `fas -> layout` or `fas -> schematic`
+
